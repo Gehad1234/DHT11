@@ -58,10 +58,6 @@ Make sure you have set up a ThingSpeak channel with the appropriate fields to re
 
 Feel free to modify and extend this project to suit your specific needs. You can enhance it by adding additional sensors, data logging features, or integrating it with other IoT platforms. Contributions and improvements are welcome!
 
-### License
-
-This project is open-source and available under an open-source license (mention the specific license used). Please refer to the LICENSE.md file for more details.
-
 ### Author
 
 Gehad Abdellah 
